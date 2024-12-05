@@ -4,7 +4,7 @@ matplotlib
 seaborn
 datetime
 streamlit
-pickle5
+# pickle5
 # Tambahkan pustaka berikut jika bagian yang dikomentari juga digunakan:
 plotly
 scikit-learn
